@@ -40,11 +40,22 @@ body {
 	}
 }
 
+.btn-mid {
+	margin-top : 0.6rem;
+	padding : .3rem 1.5rem;
+	font-size: 1rem;
+	line-height: 1.5;
+	border-radius: .3rem;
+	border : 0;
+}
+
 .navbar{
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
+	padding-top: 14%;
+	vertical-align:bottom;
 }
 
 .navbar-item {
